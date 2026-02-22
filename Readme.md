@@ -31,7 +31,7 @@ Domains:
 ```
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,react,electron,linux,docker,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,react,flutter,electron,linux,docker,git&theme=dark"/>
 </p>
 
 ---
