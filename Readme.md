@@ -59,7 +59,6 @@ FinTech Infrastructure
 ## 📊 GitHub Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sureshKrishna05&show_icons=true&hide_border=true&theme=github_dark&title_color=00ff9c&icon_color=00ff9c&text_color=ffffff"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sureshKrishna05&hide_border=true&theme=dark&background=00000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideNums=ffffff&currStreakNum=ffffff&dates=9e9e9e&sideLabels=00ff9c"/>
 </p>
 
