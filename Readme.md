@@ -64,8 +64,6 @@ FinTech Infrastructure
 
 ---
 
----
-
 ## 🧪 Active Build Space
 
 ```text
