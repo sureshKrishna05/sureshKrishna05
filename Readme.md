@@ -31,8 +31,22 @@ Domains:
 ```
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,react,flutter,electron,linux,docker,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,react,flutter,electron,linux,docker,git&theme=dark" />
 </p>
+
+---
+
+## 📊 GitHub Telemetry
+
+<p align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sureshKrishna05&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sureshKrishna05&theme=github_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sureshKrishna05&theme=github_dark" />
+</p>
+
+<!-- <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sureshKrishna05&hide_border=true&theme=dark&background=00000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideNums=ffffff&currStreakNum=ffffff&dates=9e9e9e&sideLabels=00ff9c"/>
+</p> -->
 
 ---
 
@@ -56,14 +70,6 @@ FinTech Infrastructure
 
 ---
 
-## 📊 GitHub Telemetry
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sureshKrishna05&hide_border=true&theme=dark&background=00000000&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideNums=ffffff&currStreakNum=ffffff&dates=9e9e9e&sideLabels=00ff9c"/>
-</p>
-
----
-
 ## 🧪 Active Build Space
 
 ```text
@@ -75,19 +81,29 @@ FinTech Infrastructure
 
 ---
 
+## 🧬 Repository Classification
+
+```text
+/lab         → quantum experiments & research prototypes
+/core        → production-grade systems
+/experiments → performance & architecture testing
+```
+
+---
+
 ## 🌐 Connect
 
 <p align="center">
 <a href="mailto:sureshkrishnar05@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff9c" />
 </a>
 
 <a href="https://www.linkedin.com/in/sureshkrishna-r">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />
 </a>
 
 <a href="https://github.com/sureshKrishna05">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff9c"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff9c" />
 </a>
 </p>
 
@@ -100,14 +116,4 @@ OS      : Kali Linux
 Shell   : bash
 Editor  : Neovim
 Focus   : Performance • Security • Computation
-```
-
----
-
-## 🧬 Repository Classification
-
-```text
-/lab         → quantum experiments & research prototypes
-/core        → production-grade systems
-/experiments → performance & architecture testing
 ```
