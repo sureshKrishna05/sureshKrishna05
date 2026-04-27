@@ -112,7 +112,7 @@ FinTech Infrastructure
 ## 🖥 Environment
 
 ```bash
-OS      : Kali Linux
+OS      : Fedora
 Shell   : bash
 Editor  : Neovim
 Focus   : Performance • Security • Computation
